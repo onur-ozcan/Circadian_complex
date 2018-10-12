@@ -1,0 +1,92 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Clock_4h10       ------------------------------KDKAKRVSRNKSEKKRRDQFNVLIKELGSM	30
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      MVFTVSCSKMSSIVDRDDSSIFDGLVEEDDKDKAKRVSRNKSEKKRRDQFNVLIKELGSM	60
+Clock_4f3l       -----------------------------------------SEKKRRDQFNVLIKELGSM	19
+                                                                             
+
+Clock_4h10       LPGNARKMDKSTVLQKSIDFLRKHKEITAWLEH---------------------------	63
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      LPGNARKMDKSTVLQKSIDFLRKHKETTAQSDASEIRQDWKPTFLSNEEFTQLMLEALDG	120
+Clock_4f3l       LPGNARKMDKSTVLQKSIDFLRKHKETTAQSDASEIRQDWKPTFLSNEEFTQLMLEALDG	79
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      FFLAIMTDGSIIYVSESVTSLLEHLPSDLVDQSIFNFIPEGEHSEVYKILSTHLLESDSL	180
+Clock_4f3l       FFLAIMTDGSIIYVSESVTSLLEHLPSDLVDQSIFNFIPEGEHSEVYKILSTHLLESDSL	139
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      TPEYLKSKNQLEFCCHMLRGTIDPKEPSTYEYVRFIGNFKSLTSVSTSTHNGFEGTIQRT	240
+Clock_4f3l       TPEYLKSKNQLEFCCHMLRGTIDPKEPSTYEYVRFIGNFKSLT-----------------	182
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      HRPSYEDRVCFVATVRLATPQFIKEMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYL	300
+Clock_4f3l       -------RVCFVATVRLATPQFIKEMCTVEEPNEEFTSRHSLEWKFLFLDHRAPPIIGYL	235
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      PFEVLGTSGYDYYHVDDLENLAKCHEHLMQYGKGKSCYYRFLTKGQQWIWLQTHYYITYH	360
+Clock_4f3l       PFEVLGTSGYDYYHVDDLENLAKCHEHLMQYGKGKSCYYRFLTKGQQWIWLQTHYYITYH	295
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      QWNSRPEFIVCTHTVVSYAEVRAERRRELGIEESLPETAADKSQDSGSDNRINTVSLKEA	420
+Clock_4f3l       QWNSRPEFIVCTHTVVSYAEVRAE------------------------------------	319
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	0
+Clock_fasta      LERFDHSPTPSASSRSSRKSSHTAVSDPSSTPTKIPTDTSTPPRQHLPAHEKMTQRRSSF	480
+Clock_4f3l       ------------------------------------------------------------	319
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------SAQLGAXQHLKDQLEQRTRXIEAN	24
+Clock_fasta      SSQSINSQSVGPSLTQPAMSQAANLPIPQGMSQFQFSAQLGAMQHLKDQLEQRTRMIEAN	540
+Clock_4f3l       ------------------------------------------------------------	319
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       IHRQQEELRKIQEQL---------------------------------------------	39
+Clock_fasta      IHRQQEELRKIQEQLQMVHGQGLQMFLQQSNPGLNFGSVQLSSGNSNIQQLTPVNMQGQV	600
+Clock_4f3l       ------------------------------------------------------------	319
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	39
+Clock_fasta      VPANQVQSGHISTGQHMIQQQTLQSTSTQQSQQSVMSGHSQQTSLPSQTPSTLTAPLYNT	660
+Clock_4f3l       ------------------------------------------------------------	319
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	39
+Clock_fasta      MVISQPAAGSMVQIPSSMPQNSTQSATVTTFTQDRQIRFSQGQQLVTKLVTAPVACGAVM	720
+Clock_4f3l       ------------------------------------------------------------	319
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	39
+Clock_fasta      VPSTMLMGQVVTAYPTFATQQQQAQTLSVTQQQQQQQQQPPQQQQQQQQSSQEQQLPSVQ	780
+Clock_4f3l       ------------------------------------------------------------	319
+                                                                             
+
+Clock_4h10       ------------------------------------------------------------	63
+Clock_5vjx       ------------------------------------------------------------	39
+Clock_fasta      QPAQAQLGQPPQQFLQTSRLLHGNPSTQLILSAAFPLQQSTFPPSHHQQHQPQQQQQLPR	840
+Clock_4f3l       ------------------------------------------------------------	319
+                                                                             
+
+Clock_4h10       ---------------	63
+Clock_5vjx       ---------------	39
+Clock_fasta      HRTDSLTDPSKVQPQ	855
+Clock_4f3l       ---------------	319
+                                

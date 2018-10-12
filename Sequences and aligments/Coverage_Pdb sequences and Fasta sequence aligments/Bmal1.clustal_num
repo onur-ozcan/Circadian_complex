@@ -1,0 +1,57 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Bmal1_4f3l       ------------------------------------------------------------	0
+Bmal1_fasta      MADQRMDISSTISDFMSPGPTDLLSGSLGTSGVDCNRKRKGSATDYQLDDFAFEESMDTD	60
+Bmal1_4h10       ------------------------------------------------------------	0
+                                                                             
+
+Bmal1_4f3l       -----------------KNAREAHSQIEKRRRDKMNSFIDELASLVPTCNAMSRKLDKLT	43
+Bmal1_fasta      KDDPHGRLEYAEHQGRIKNAREAHSQIEKRRRDKMNSFIDELASLVPTCNAMSRKLDKLT	120
+Bmal1_4h10       ---------------RIKNAREAHSQIEKRRRDKMNSFIDELASLVPTCNAMSRKLDKLT	45
+                                  *******************************************
+
+Bmal1_4f3l       VLRMAVQHMKTLRGA------ANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVS	97
+Bmal1_fasta      VLRMAVQHMKTLRGATNPYTEANYKPTFLSDDELKHLILRAADGFLFVVGCDRGKILFVS	180
+Bmal1_4h10       VLRMAVQHMKTLRGA---------------------------------------------	60
+                 ***************                                             
+
+Bmal1_4f3l       ESVFKILNYSQNDLIGQSLFDYLHPKDIAKVKEQLSS-----------------------	134
+Bmal1_fasta      ESVFKILNYSQNDLIGQSLFDYLHPKDIAKVKEQLSSSDTAPRERLIDAKTGLPVKTDIT	240
+Bmal1_4h10       ------------------------------------------------------------	60
+                                                                             
+
+Bmal1_4f3l       ---SRLCSGARRSFFCRMKCNRP------------------RKSFCTIHSTGYLKS----	169
+Bmal1_fasta      PGPSRLCSGARRSFFCRMKCNRPSVKVEDKDFASTCSKKKDRKSFCTIHSTGYLKSWPPT	300
+Bmal1_4h10       ------------------------------------------------------------	60
+                                                                             
+
+Bmal1_4f3l       ---------------NLSCLVAIGRLHSHMVPQPANGEIRVKSMEYVSRHAIDGKFVFVD	214
+Bmal1_fasta      KMGLDEDNEPDNEGCNLSCLVAIGRLHSHMVPQPANGEIRVKSMEYVSRHAIDGKFVFVD	360
+Bmal1_4h10       ------------------------------------------------------------	60
+                                                                             
+
+Bmal1_4f3l       QRATAILAYLPQELLGTSCYEYFHQDDIGHLAECHRQVLQTREKITTNCYKFKIKDGSFI	274
+Bmal1_fasta      QRATAILAYLPQELLGTSCYEYFHQDDIGHLAECHRQVLQTREKITTNCYKFKIKDGSFI	420
+Bmal1_4h10       ------------------------------------------------------------	60
+                                                                             
+
+Bmal1_4f3l       TLRSRWFSFMNPWTKEVEYIVSTNTVVL--------------------------------	302
+Bmal1_fasta      TLRSRWFSFMNPWTKEVEYIVSTNTVVLANVLEGGDPTFPQLTAPPHSMDSMLPSGEGGP	480
+Bmal1_4h10       ------------------------------------------------------------	60
+                                                                             
+
+Bmal1_4f3l       ------------------------------------------------------------	302
+Bmal1_fasta      KRTHPTVPGIPGGTRAGAGKIGRMIAEEIMEIHRIRGSSPSSCGSSPLNITSTPPPDASS	540
+Bmal1_4h10       ------------------------------------------------------------	60
+                                                                             
+
+Bmal1_4f3l       ------------------------------------------------------------	302
+Bmal1_fasta      PGGKKILNGGTPDIPSTGLLPGQAQETPGYPYSDSSSILGENPHIGIDMIDNDQGSSSPS	600
+Bmal1_4h10       ------------------------------------------------------------	60
+                                                                             
+
+Bmal1_4f3l       --------------------------------	302
+Bmal1_fasta      NDEAAMAVIMSLLEADAGLGGPVDFSDLPWPL	632
+Bmal1_4h10       --------------------------------	60
+                                                 
